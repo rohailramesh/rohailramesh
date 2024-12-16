@@ -5,7 +5,7 @@ Computer Science Graduate
 --------------------------------------------
 
 * 🌍  I'm based in London
-* 🖥️  See my portfolio at [rohailramesh.co.uk](http://rohailramesh.com)
+* 🖥️  See my portfolio at [rohailramesh.com](http://rohailramesh.com)
 * ✉️  You can contact me at [rohailramesh@hotmail.com](mailto:rohailramesh@hotmail.com)
 * 🧠  I'm learning Neural Networks in Python, MERN Stack, AWS Cloud Practitioner 
 * 🤝  I'm open to collaborating on full stack applications.
